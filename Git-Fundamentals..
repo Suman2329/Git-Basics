@@ -1,0 +1,9 @@
+git init -  initialize a new repository.
+git add - Adding file into your Repo.
+git commit - Once files are staged, you can commit them with a message describing what was changed: 
+git commit -m "Describe your changes here" like that..
+git status - it will show  to view what has been changed:
+git pull origin <branch-name> - Before pushing your changes, it's good practice to sync with the latest code from the remote repository. 
+                                This prevents conflicts and ensures you're working with the latest version.
+git push -u origin <branch-name> - push your new branch to the remote repository 
+
