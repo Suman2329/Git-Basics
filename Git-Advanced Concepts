@@ -1,0 +1,8 @@
+Git Fork : A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original repository.
+Forking is commonly used to:--> 
+Contribute to open-source projects.
+Develop features independently of the main project.
+Maintain separate versions of the repository.
+Git Cherry-pick : Applies a specific commit from one branch to another.
+Git stash - Saves changes to a stash with a message for easier identification.
+Git rebase - Rewrites commit history interactively. You can squash, reword, reorder, or drop commits during a rebase.
